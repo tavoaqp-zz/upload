@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="org.codehaus.mojo.taglist-maven-plugin">
+  <tags>
+    <tag name="@todo" count="0" />
+    <tag name="TODO" count="19">
+      <files>
+        <file name="wjhk.jupload2.upload.FileUploadThreadHTTP" count="1">
+          <comments>
+            <comment>
+              <lineNumber>447</lineNumber>
+              <comment>This could be much more simple !</comment>
+            </comment>
+          </comments>
+        </file>
+        <file name="wjhk.jupload2.upload.helper.ByteArrayEncoderHTTP" count="2">
+          <comments>
+            <comment>
+              <lineNumber>259</lineNumber>
+              <comment>Do not use getApplet() anymore, here.</comment>
+            </comment>
+            <comment>
+              <lineNumber>315</lineNumber>
+              <comment>Do not use getApplet() anymore, here.</comment>
+            </comment>
+          </comments>
+        </file>
+        <file name="wjhk.jupload2.upload.helper.HTTPInputStreamReader" count="1">
+          <comments>
+            <comment>
+              <lineNumber>498</lineNumber>
+              <comment>Implement trailer-handling.</comment>
+            </comment>
+          </comments>
+        </file>
+        <file name="wjhk.jupload2.context.JUploadContextExecutable" count="2">
+          <comments>
+            <comment>
+              <lineNumber>133</lineNumber>
+              <comment>use this.getClass() ?</comment>
+            </comment>
+            <comment>
+              <lineNumber>300</lineNumber>
+              <comment>Auto-generated method stub</comment>
+            </comment>
+          </comments>
+        </file>
+        <file name="wjhk.jupload2.filedata.helper.ImageHelper" count="2">
+          <comments>
+            <comment>
+              <lineNumber>627</lineNumber>
+              <comment>finish this new version dest = new BufferedImage(widthAfterRotation, heigthAfterRotation, BufferedImage.TYPE_BYTE_INDEXED,sourceBufferedImage.getColorModel())</comment>
+            </comment>
+            <comment>
+              <lineNumber>672</lineNumber>
+              <comment>drawImage in another thread, to allow repaint of the progress bar ? Current status: the progress bar is only updated ... when draImage returns, that is: when everything is finished. NO interest.</comment>
+            </comment>
+          </comments>
+        </file>
+        <file name="wjhk.jupload2.gui.filepanel.SizeRenderer" count="2">
+          <comments>
+            <comment>
+              <lineNumber>120</lineNumber>
+              <comment>Use local as the first argument.</comment>
+            </comment>
+            <comment>
+              <lineNumber>122</lineNumber>
+              <comment>remove this temp log</comment>
+            </comment>
+          </comments>
+        </file>
+        <file name="wjhk.jupload2.gui.JUploadFileChooser" count="1">
+          <comments>
+            <comment>
+              <lineNumber>67</lineNumber>
+              <comment>This breaks usability. probably use a persistent value of a cookie later. this.fileChooser.setCurrentDirectory(new File(System .getProperty("user.dir")));</comment>
+            </comment>
+          </comments>
+        </file>
+        <file name="wjhk.jupload2.upload.FilePreparationThread" count="1">
+          <comments>
+            <comment>
+              <lineNumber>156</lineNumber>
+              <comment>Whe error during file preparation ask the user.</comment>
+            </comment>
+          </comments>
+        </file>
+        <file name="wjhk.jupload2.policies.CoppermineUploadPolicy" count="1">
+          <comments>
+            <comment>
+              <lineNumber>34</lineNumber>
+              <comment>cookies handling: desc to be mve to UploadPolicy presentation.</comment>
+            </comment>
+          </comments>
+        </file>
+        <file name="wjhk.jupload2.upload.helper.HTTPConnectionHelper" count="2">
+          <comments>
+            <comment>
+              <lineNumber>760</lineNumber>
+              <comment>port in proxy mode: to be tested !</comment>
+            </comment>
+            <comment>
+              <lineNumber>769</lineNumber>
+              <comment>This probably can be removed as we now have everything in POST data. However in order to be backwards-compatible, it stays here for now. So we now provide *both* GET and POST params.</comment>
+            </comment>
+          </comments>
+        </file>
+        <file name="wjhk.jupload2.upload.FileUploadThreadFTP" count="1">
+          <comments>
+            <comment>
+              <lineNumber>282</lineNumber>
+              <comment>call it once for all files, not once for each file.</comment>
+            </comment>
+          </comments>
+        </file>
+        <file name="wjhk.jupload2.context.DefaultJUploadContext" count="2">
+          <comments>
+            <comment>
+              <lineNumber>244</lineNumber>
+              <comment>Translate this sentence</comment>
+            </comment>
+            <comment>
+              <lineNumber>365</lineNumber>
+              <comment>Better handling logging, here</comment>
+            </comment>
+          </comments>
+        </file>
+        <file name="wjhk.jupload2.JUploadDaemon" count="1">
+          <comments>
+            <comment>
+              <lineNumber>49</lineNumber>
+              <comment>add a way to personalize the window title.</comment>
+            </comment>
+          </comments>
+        </file>
+      </files>
+    </tag>
+  </tags>
+</report>

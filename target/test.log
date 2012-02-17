@@ -1,0 +1,262 @@
+18:14:36,307  WARN AbstractJUploadTestHelper:186 - java.lang.IllegalArgumentException when creating URL from http://jupload.sourceforge.net/upload_dummy.html (will use http://localhost/index.html instead
+18:14:36,849  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:36,895  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:36,929  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:36,945  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:36,966  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:36,976  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:37,066  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,084  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:37,159  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,164  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,322  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,329  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:37,339  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,344  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:37,360  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,364  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:37,434  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,438  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:37,485  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,487  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,548  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,556  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:37,607  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,609  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,678  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,682  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:37,688  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,960  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,968  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:37,980  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,984  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:37,992  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:37,996  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:38,003  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,006  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:38,009  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,013  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:38,015  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,017  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,140  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,144  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:38,145  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,149  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:38,151  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,152  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,258  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,273  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:38,276  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,280  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:38,298  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,303  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:38,312  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,316  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:38,317  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,327  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,331  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:38,333  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,340  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,345  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:38,347  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,361  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,364  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:38,533  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,536  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:38,583  WARN UploadPolicyTestHelper:766 - class wjhk.jupload2.testhelpers.UploadPolicyTestHelper.getSendMD5Sum() is not implemented in tests cases
+18:14:38,584  WARN UploadPolicyTestHelper:766 - class wjhk.jupload2.testhelpers.UploadPolicyTestHelper.getSendMD5Sum() is not implemented in tests cases
+18:14:38,641  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,716  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:38,719  INFO UploadPolicyTestHelper:216 - [WARNING] Exception: [null]
+18:14:38,823  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,834  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:38,840  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,870  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:38,880  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,920  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:38,934  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,948  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:38,953  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:38,962  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,168  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,176  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,181  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,192  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,194 ERROR UploadPolicyTestHelper:243 - [ERROR] An error message
+18:14:39,198  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,205  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,206  INFO UploadPolicyTestHelper:261 - [INFO] An information message
+18:14:39,210  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,218  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,219  INFO UploadPolicyTestHelper:216 - [WARNING] A warning message
+18:14:39,223  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,231  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,236  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,263  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,268  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,277  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,282  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,291  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,294  INFO UploadPolicyTestHelper:216 - [WARNING] Exception: [null]
+18:14:39,298  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,305  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,310  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,338  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,339  INFO UploadPolicyTestHelper:216 - [WARNING] Invalid int value:  QSDQ , using default value: -234
+18:14:39,343  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,350  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,352  INFO UploadPolicyTestHelper:216 - [WARNING] Invalid float value:  ZAEZA , using default value: -456.11234
+18:14:39,356  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,370  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,371  INFO UploadPolicyTestHelper:216 - [WARNING] Invalid long value:  QSDQ , using default value: -9223372036854775808
+18:14:39,375  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,384  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,386  INFO UploadPolicyTestHelper:216 - [WARNING] Invalid boolean value: QSDQ, using default value: false
+18:14:39,386  INFO UploadPolicyTestHelper:216 - [WARNING] Invalid boolean value: QSDQ, using default value: true
+18:14:39,390  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,405  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,418  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,442  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,454  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,467  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,472  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,478  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,483  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,489  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,496  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,504  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,508  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,515  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,538  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,545  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,550  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,565  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,571  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,580  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,585  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,606  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,611  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,617  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,621  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,628  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,634  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:39,642  INFO UploadPolicyTestHelper:216 - [WARNING] UnsupportedOperationException: addComponentsToJUploadPanel() is not implemented in tests cases
+18:14:39,656  INFO AbstractJUploadTestHelper:68 - Start of packetConstructionThreadTest()
+18:14:39,657  INFO AbstractJUploadTestHelper:79 - End of packetConstructionThreadTest()
+18:14:39,659  INFO AbstractJUploadTestHelper:89 - Start of runOneFile()
+18:14:39,674  INFO AbstractJUploadTestHelper:248 - The queue preparedFileQueue has been emptied
+18:14:39,676  INFO AbstractJUploadTestHelper:281 - The thread packetConstructionThread finished alone (no interruption needed)
+18:14:39,676  INFO AbstractJUploadTestHelper:142 - End of runOneFile()
+18:14:39,679  INFO AbstractJUploadTestHelper:152 - Start of runTwoFiles()
+18:14:39,691  INFO AbstractJUploadTestHelper:248 - The queue preparedFileQueue has been emptied
+18:14:39,692  INFO UploadPolicyTestHelper:216 - [WARNING] packetConstructionThread received InterruptedException, exiting
+18:14:39,694  INFO AbstractJUploadTestHelper:193 - Start of runThreeFiles()
+18:14:39,706  INFO AbstractJUploadTestHelper:248 - The queue preparedFileQueue has been emptied
+18:14:39,707  INFO AbstractJUploadTestHelper:281 - The thread packetConstructionThread finished alone (no interruption needed)
+18:14:39,708  INFO AbstractJUploadTestHelper:246 - End of runThreeFiless()
+18:14:40,087  WARN UploadPolicyTestHelper:766 - class wjhk.jupload2.testhelpers.UploadPolicyTestHelper.getSendMD5Sum() is not implemented in tests cases
+18:14:40,542  WARN UploadPolicyTestHelper:124 - class wjhk.jupload2.testhelpers.UploadPolicyTestHelper.beforeUpload() is not implemented in tests cases
+18:14:40,542  WARN JUploadPanelTestHelper:277 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.updateButtonState() is not implemented in tests cases
+18:14:40,547  WARN JUploadPanelTestHelper:277 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.updateButtonState() is not implemented in tests cases
+18:14:40,547  WARN JUploadContextTestHelper:438 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.showStatus() is not implemented in tests cases
+18:14:40,549  INFO UploadPolicyTestHelper:261 - [INFO] Upload finished normally. 0 file(s) uploaded in 0 seconds. Average upload speed: 0 (kbytes/s)
+18:14:40,550  WARN UploadPolicyTestHelper:97 - class wjhk.jupload2.testhelpers.UploadPolicyTestHelper.afterUpload() is not implemented in tests cases
+18:14:45,551  WARN JUploadPanelTestHelper:277 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.updateButtonState() is not implemented in tests cases
+18:14:45,551  INFO AbstractJUploadTestHelper:281 - The thread fileUploadManagerThread finished alone (no interruption needed)
+18:14:45,555 ERROR UploadPolicyTestHelper:252 - [ERROR] wjhk.jupload2.exception.JUploadException: A test exception, to test FileUploadManagerThreadImpl.setUploadException() [errDuringUpload
+
+A test exception, to test FileUploadManagerThreadImpl.setUploadException()]
+18:14:45,559 ERROR UploadPolicyTestHelper:252 - [ERROR] wjhk.jupload2.exception.JUploadException: A test exception, to test FileUploadManagerThreadImpl.setUploadException() [errDuringUpload
+
+A test exception, to test FileUploadManagerThreadImpl.setUploadException()]
+18:14:45,572  WARN UploadPolicyTestHelper:124 - class wjhk.jupload2.testhelpers.UploadPolicyTestHelper.beforeUpload() is not implemented in tests cases
+18:14:45,579  WARN UploadPolicyTestHelper:124 - class wjhk.jupload2.testhelpers.UploadPolicyTestHelper.beforeUpload() is not implemented in tests cases
+18:14:45,579  WARN JUploadPanelTestHelper:277 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.updateButtonState() is not implemented in tests cases
+18:14:45,579  WARN JUploadPanelTestHelper:277 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.updateButtonState() is not implemented in tests cases
+18:14:45,580  WARN JUploadContextTestHelper:438 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.showStatus() is not implemented in tests cases
+18:14:45,579  WARN JUploadPanelTestHelper:277 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.updateButtonState() is not implemented in tests cases
+18:14:45,580  WARN JUploadPanelTestHelper:277 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.updateButtonState() is not implemented in tests cases
+18:14:45,580  WARN JUploadContextTestHelper:438 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.showStatus() is not implemented in tests cases
+18:14:45,581  INFO UploadPolicyTestHelper:261 - [INFO] Upload finished normally. 0 file(s) uploaded in 0 seconds. Average upload speed: 0 (kbytes/s)
+18:14:45,581  WARN UploadPolicyTestHelper:97 - class wjhk.jupload2.testhelpers.UploadPolicyTestHelper.afterUpload() is not implemented in tests cases
+18:14:45,581  INFO UploadPolicyTestHelper:261 - [INFO] Upload stopped by the user. 0 file(s) uploaded in 0 seconds. Average upload speed: 0 (kbytes/s)
+18:14:45,582  WARN JUploadPanelTestHelper:277 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.updateButtonState() is not implemented in tests cases
+18:14:45,588  WARN FilePanelTestHelper:135 - class wjhk.jupload2.testhelpers.FilePanelTestHelper.remove() is not implemented in tests cases
+18:14:45,590  WARN JUploadPanelTestHelper:277 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.updateButtonState() is not implemented in tests cases
+18:14:45,688  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:45,692  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,217  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,226  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,233  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,237  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,252  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,255  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,266  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,270  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,288  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,300  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,308  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,312  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,320  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,323  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,332  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,345  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,353  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,356  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,364  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,367  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,377  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,380  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,389  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,392  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,486  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,489  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,519  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,522  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,535  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,550  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,591  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,594  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,610  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,622  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,631  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,653  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,663  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,679  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,683  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,692  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,696  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,720  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,725  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,780  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,788  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,818  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,830  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,860  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,877  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,904  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,920  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,942  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,957  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:46,994  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:46,998  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:47,015  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:47,036  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:47,070  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:47,088  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:47,104  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:47,116  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:47,201  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:47,212  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:47,251  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:47,254  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:47,264  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:47,268  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:47,285  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:47,288  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:47,299  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:47,303  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:47,316  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:47,320  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
+18:14:47,330  WARN JUploadContextTestHelper:397 - class wjhk.jupload2.testhelpers.JUploadContextTestHelper.registerUnload() is not implemented in tests cases
+18:14:47,333  WARN JUploadPanelTestHelper:269 - class wjhk.jupload2.testhelpers.JUploadPanelTestHelper.showOrHideLogWindow() is not implemented in tests cases
