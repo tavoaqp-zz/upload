@@ -132,8 +132,8 @@ public class JUploadContextExecutable extends DefaultJUploadContext {
         try {
             // TODO use this.getClass() ?
             InputStream isProperties = Class.forName(
-                    "wjhk.jupload2.JUploadDaemon")
-                    .getResourceAsStream("./");
+                    "wjhk.jupload2.JUploadApplet")
+                    .getResourceAsStream(filename);
             properties.load(isProperties);
             isProperties.close();
         } catch (IOException e1) {

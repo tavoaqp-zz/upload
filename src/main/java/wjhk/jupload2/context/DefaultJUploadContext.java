@@ -41,6 +41,7 @@ import wjhk.jupload2.exception.JUploadException;
 import wjhk.jupload2.gui.JUploadPanel;
 import wjhk.jupload2.gui.JUploadPanelImpl;
 import wjhk.jupload2.gui.JUploadTextArea;
+import wjhk.jupload2.policies.MediaChoiceUploadPolicy;
 import wjhk.jupload2.policies.UploadPolicy;
 import wjhk.jupload2.policies.UploadPolicyFactory;
 import wjhk.jupload2.upload.FileUploadManagerThread;
@@ -199,7 +200,7 @@ public class DefaultJUploadContext implements JUploadContext {
 			this.logWindow = new JUploadTextArea(20, 20, this.uploadPolicy);
 
 			// Now we can create the upload policy: the logWindow exists.
-			this.uploadPolicy = UploadPolicyFactory.getUploadPolicy(this);
+			this.uploadPolicy = new MediaChoiceUploadPolicy(this);
 			this.uploadPolicy.displayDebug(
 					"After UploadPolicyFactory.getUploadPolicy(this)", 80);
 

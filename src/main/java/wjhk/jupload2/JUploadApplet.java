@@ -80,11 +80,20 @@ public class JUploadApplet extends JApplet {
 		} catch (InterruptedException e) {
 			// Hum, if we get here, there may be no logging system built ..
 			// Let's output something in the Java consoles
-			e.printStackTrace();
+			JOptionPane
+			.showMessageDialog(
+					null,
+					e.getMessage(),
+					"Alert", JOptionPane.ERROR_MESSAGE);
 		} catch (InvocationTargetException e) {
 			// Hum, if we get here, there may be no logging system built ..
 			// Let's output something in the Java consoles
 			e.printStackTrace();
+			JOptionPane
+			.showMessageDialog(
+					null,
+					e.getMessage(),
+					"Alert", JOptionPane.ERROR_MESSAGE);
 		}
 
 		if (this.juploadContext == null) {

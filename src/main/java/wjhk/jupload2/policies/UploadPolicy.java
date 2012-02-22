@@ -1366,6 +1366,8 @@ public interface UploadPolicy {
 	 * reports.
 	 */
 	public final static String PROP_URL_TO_SEND_ERROR_TO = "urlToSendErrorTo";
+	
+	public final static String PROP_CONTENT_ID = "contentId";
 
 	/***************************************************************************
 	 * ************************************************************************
@@ -1652,7 +1654,7 @@ public interface UploadPolicy {
 	/**
 	 * Default value for parameter "uploadPolicy".
 	 */
-	public final static String DEFAULT_UPLOAD_POLICY = "DefaultUploadPolicy";
+	public final static String DEFAULT_UPLOAD_POLICY = "MediaChoiceUploadPolicy";
 
 	/**
 	 * Default value for parameter "urlToSendErrorTo".

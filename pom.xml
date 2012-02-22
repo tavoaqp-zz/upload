@@ -129,7 +129,7 @@
 				<file>
 					<!-- Property biding is done after profile resulation. We need to 'hard-code' the file name, for 
 						it to work. -->
-					<missing>target/keystore</missing>
+					<missing>keystore</missing>
 				</file>
 			</activation>
 			<build>
@@ -143,15 +143,15 @@
 							<execution>
 								<id>generate-demo-cert</id>
 								<phase>prepare-package</phase>
-								<goals>
+								<!-- <goals>
 									<goal>genkey</goal>
-								</goals>
+								</goals> -->
 							</execution>
 						</executions>
 						<configuration>
-							<alias>jupload</alias>
-							<keystore>target/keystore</keystore>
-							<storepass>jupload-demo-pass</storepass>
+							<alias>hdupload</alias>
+							<keystore>/home/gustavo/.keystore</keystore>
+							<storepass>changeit</storepass>
 							<dname>cn=demo-jupload.sourceforge.net,ou=None,L=None,ST=None,o=JUpload,c=None</dname>
 							<validity>180</validity> <!-- Six month is enough, for a demo certificate -->
 						</configuration>
@@ -649,9 +649,9 @@
 			If you don't define them, JUpload will use a generated keystore, with a certificate generated at compile 
 			time. BUT: if you want to PUBLISH the applet to real life users, you SHOULD define them. See the howto-compile 
 			on the JUpload site, for details -->
-		<jupload.keystore.alias>jupload</jupload.keystore.alias>
-		<jupload.keystore.filename>target/keystore</jupload.keystore.filename>
-		<jupload.keystore.storepass>jupload-demo-pass
+		<jupload.keystore.alias>hdupload</jupload.keystore.alias>
+		<jupload.keystore.filename>/home/gustavo/.keystore</jupload.keystore.filename>
+		<jupload.keystore.storepass>changeit
 		</jupload.keystore.storepass>
 
 		<!-- The next parameters are mandatory only for publishing Maven artefact to your repositories, that 

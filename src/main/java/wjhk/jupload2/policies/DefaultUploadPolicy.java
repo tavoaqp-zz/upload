@@ -107,6 +107,10 @@ import wjhk.jupload2.upload.helper.InteractiveTrustManager;
  * @version $Revision: 1581 $
  */
 
+/**
+ * @author gustavo
+ *
+ */
 public class DefaultUploadPolicy implements UploadPolicy {
 
 	/**
@@ -305,6 +309,12 @@ public class DefaultUploadPolicy implements UploadPolicy {
 	 * @see UploadPolicy#getStringUploadWarning()
 	 */
 	private String stringUploadWarning = UploadPolicy.DEFAULT_STRING_UPLOAD_WARNING;
+	
+	/**
+	 * @see UploadPolicy#getContentId()
+	 */
+	private String contentId = null;
+	
 
 	/**
 	 * If an error occurs during upload, and this attribute is not null, the
@@ -531,6 +541,8 @@ public class DefaultUploadPolicy implements UploadPolicy {
 		// occurs.
 		setUrlToSendErrorTo(juploadContext.getParameter(
 				PROP_URL_TO_SEND_ERROR_TO, DEFAULT_URL_TO_SEND_ERROR_TO));
+		
+		setContentId(juploadContext.getParameter(PROP_CONTENT_ID, ""));
 		this.formData = juploadContext.getParameter(PROP_FORMDATA,
 				DEFAULT_FORMDATA);
 		this.afterUploadTarget = juploadContext.getParameter(
@@ -1622,6 +1634,29 @@ public class DefaultUploadPolicy implements UploadPolicy {
 					+ " (in DefaultUploadPolicy.setProperty)");
 		}
 	}
+
+	
+	/**
+	 * Set this applet's content id that identifies the resource
+	 * on MediaChoice that will receive this Hd file.
+	 * 
+	 * @param value
+	 */
+	public void setContentId(String value) {
+		this.contentId=value;		
+	}
+	
+	
+	/**
+	 * Returns this applet's content id. See {@link #setContentId()} for more
+	 * information. Returns current content id value.
+	 * @return
+	 */
+	public String getContentId()
+	{
+		return this.contentId;
+	}	
+	
 
 	/**
 	 * This method displays the applet parameter list, according to the current

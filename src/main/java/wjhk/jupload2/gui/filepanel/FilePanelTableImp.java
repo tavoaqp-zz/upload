@@ -88,12 +88,12 @@ public class FilePanelTableImp extends JPanel implements FilePanel,
         this.model = new FilePanelDataModel2(uploadPolicy);
         this.jtable.setModel(this.model);
 
-        this.scrollPane = new JScrollPane(this.jtable);
-        add(this.scrollPane, BorderLayout.CENTER);
-        this.scrollPane.addMouseListener(juploadPanel.getMouseListener());
-
-        // We must resize columns, when the size of the view changes.
-        this.scrollPane.getViewport().addComponentListener(this);
+//        this.scrollPane = new JScrollPane(this.jtable);
+//        add(this.scrollPane, BorderLayout.CENTER);
+//        this.scrollPane.addMouseListener(juploadPanel.getMouseListener());
+//
+//        // We must resize columns, when the size of the view changes.
+//        this.scrollPane.getViewport().addComponentListener(this);
     }
 
     /**
