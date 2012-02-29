@@ -4,7 +4,7 @@
 		the limitation posed by traditional HTML upload forms
 		by allowing you to upload a whole directory and the files within it with
 		a single click. Optionally, it allows
-		simple picture management. JUpload works also as a standard standalone Java application, 
+		simple picture management. JUpload works also as a standard standalone Java application,
 		and can be embedded in any Java application to do HTTP or FTP file transfert.</comment>
   <projects/>
   <buildSpec>

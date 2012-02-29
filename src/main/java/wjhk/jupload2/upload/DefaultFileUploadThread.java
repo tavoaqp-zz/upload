@@ -26,6 +26,17 @@ import java.net.SocketException;
 import java.util.concurrent.BlockingQueue;
 import java.util.regex.Pattern;
 
+import javax.ws.rs.core.MediaType;
+
+import org.codehaus.jettison.json.JSONException;
+import org.codehaus.jettison.json.JSONObject;
+
+import com.milog.mediachoice.MediaChoiceSingletonClient;
+import com.sun.jersey.api.client.Client;
+import com.sun.jersey.api.client.WebResource;
+import com.sun.jersey.api.client.config.ClientConfig;
+import com.sun.jersey.api.client.config.DefaultClientConfig;
+
 import wjhk.jupload2.exception.JUploadException;
 import wjhk.jupload2.exception.JUploadExceptionUploadFailed;
 import wjhk.jupload2.exception.JUploadIOException;
@@ -549,10 +560,13 @@ public abstract class DefaultFileUploadThread extends Thread implements
         // loop within the while loops through ... 1 unique file).
         // In normal mode, it does nothing, as the bLastChunk is set to true in
         // the first test, within the while.
+        
         while (!bLastChunk && !this.fileUploadManagerThread.isUploadFinished()) {
             // Let's manage chunk:
             // Files are uploaded one by one. This is checked just above.
             chunkPart += 1;
+//            if (chunkPart<lastUploadedChunk)
+//            	continue;
             bLastChunk = (contentLength > uploadFileData.getRemainingLength());
 
             // Is this the last chunk ?
@@ -638,7 +652,7 @@ public abstract class DefaultFileUploadThread extends Thread implements
 
     }// doChunkedUpload
 
-    /**
+	/**
      * Execution of an upload, in standard mode. This method uploads all files
      * in the given packet.
      * 

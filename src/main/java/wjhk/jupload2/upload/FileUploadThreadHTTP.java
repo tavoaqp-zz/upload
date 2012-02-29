@@ -31,8 +31,19 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.BlockingQueue;
 
+import javax.ws.rs.core.MediaType;
+
+import org.codehaus.jettison.json.JSONException;
+import org.codehaus.jettison.json.JSONObject;
+import org.json.simple.JSONValue;
+
+import com.milog.mediachoice.MediaChoiceSingletonClient;
+import com.sun.jersey.api.client.Client;
+import com.sun.jersey.api.client.WebResource;
+
 import wjhk.jupload2.exception.JUploadException;
 import wjhk.jupload2.exception.JUploadIOException;
+import wjhk.jupload2.policies.MediaChoiceUploadPolicy;
 import wjhk.jupload2.policies.UploadPolicy;
 import wjhk.jupload2.upload.helper.ByteArrayEncoder;
 import wjhk.jupload2.upload.helper.ByteArrayEncoderHTTP;
@@ -484,4 +495,5 @@ public class FileUploadThreadHTTP extends DefaultFileUploadThread {
 
         return bae;
     }// getFormParamsForPostRequest
+
 }

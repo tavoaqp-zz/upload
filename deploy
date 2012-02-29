@@ -1,0 +1,3 @@
+#!/bin/sh
+mvn clean install deploy -DskipTests=true
+cp target/wjhk.jupload.jar ../media-choice/app/assets/java/wjhk.jupload.jar

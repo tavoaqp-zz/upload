@@ -61,6 +61,8 @@ import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 import javax.swing.border.BevelBorder;
 
+import com.sun.jersey.api.client.Client;
+
 import wjhk.jupload2.context.JUploadContext;
 import wjhk.jupload2.exception.JUploadException;
 import wjhk.jupload2.exception.JUploadExceptionStopAddingFiles;
@@ -314,7 +316,6 @@ public class DefaultUploadPolicy implements UploadPolicy {
 	 * @see UploadPolicy#getContentId()
 	 */
 	private String contentId = null;
-	
 
 	/**
 	 * If an error occurs during upload, and this attribute is not null, the
@@ -1657,7 +1658,6 @@ public class DefaultUploadPolicy implements UploadPolicy {
 		return this.contentId;
 	}	
 	
-
 	/**
 	 * This method displays the applet parameter list, according to the current
 	 * debugLevel. It is called by the {@link #setDebugLevel(int)} method. It
