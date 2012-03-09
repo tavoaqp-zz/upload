@@ -26,7 +26,7 @@ public class MediaChoiceUploadPolicy extends DefaultUploadPolicy {
 					"No content id was set for this applet, check your parameters");
 		}
 		this.setMaxChunkSize(50000000);
-		// this.setMaxFileSize(350000000);
+		this.setMaxFileSize(350000000);
 		this.setSendMD5Sum(true);
 		this.setNbFilesPerRequest(1);
 		this.setRetryNbSecondsBetween(20);
